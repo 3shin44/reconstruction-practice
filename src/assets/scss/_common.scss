@@ -1,0 +1,63 @@
+body {
+  font-family: 微軟正黑體;
+  font-size: 14px;
+}
+hr {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+/* card樣式 */
+.card {
+  width: 100%;
+}
+.card-header {
+  font-weight: bold;
+  padding: 5px 10px;
+  border-bottom: unset;
+}
+.card-body {
+  padding: 10px;
+}
+.text-practice {
+  color: #0081cc;
+}
+.nav-pills .nav-link.active,
+.nav-pills .show > .nav-link {
+  color: #fff;
+  background-color: #0081cc;
+}
+a {
+  color: #0081cc;
+}
+.input-add {
+  display: inline;
+  width: 50%;
+}
+.form-check {
+  padding-bottom: 12px;
+}
+.card-header {
+  background: #0081cc;
+  color: white;
+}
+.btn-32 {
+  width: 32px;
+}
+
+.fill-width {
+  width: 100%;
+}
+
+.justify-center{
+  justify-content: center;
+}
+
+.all-center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.fill-height{
+  height: 100%;
+}
